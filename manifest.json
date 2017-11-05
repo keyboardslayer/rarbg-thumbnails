@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "RARBG thumbnails",
+  "short_name": "RARBG thumbs",
+  "description": "Display thumbnails automaticly on RARBG",
+  "version": "1.1",
+  "content_scripts":
+  [
+    {
+      "matches":
+      [
+        "*://rarbg.to/top*",
+        "*://rarbg.is/top*",
+        "*://rarbg.to/torrents.php*",
+        "*://rarbg.is/torrents.php*"
+      ],
+      "js":
+      [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "icons":
+  {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  }
+}
