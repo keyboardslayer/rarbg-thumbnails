@@ -12,7 +12,9 @@
         "*://rarbg.to/top*",
         "*://rarbg.is/top*",
         "*://rarbg.to/torrents.php*",
-        "*://rarbg.is/torrents.php*"
+        "*://rarbg.is/torrents.php*",
+        "*://rarbgproxy.org/top*",
+        "*://rarbgproxy.org/torrents.php*"
       ],
       "js":
       [
