@@ -10,11 +10,13 @@
       "matches":
       [
         "*://rarbg.to/top*",
-        "*://rarbg.is/top*",
         "*://rarbg.to/torrents.php*",
+        "*://rarbg.is/top*",
         "*://rarbg.is/torrents.php*",
         "*://rarbgproxy.org/top*",
-        "*://rarbgproxy.org/torrents.php*"
+        "*://rarbgproxy.org/torrents.php*",
+        "*://rarbgmirror.xyz/top*",
+        "*://rarbgmirror.xyz/torrents.php*"
       ],
       "js":
       [
