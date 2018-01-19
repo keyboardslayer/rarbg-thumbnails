@@ -47,8 +47,6 @@ function addThumbnailColumn (table) {
       thumbLink.style.overflow = 'hidden'
       thumbLink.appendChild(thumbImage)
 
-      thumbColumn.setAttribute('onmouseover', mouseoverAttr)
-      thumbColumn.setAttribute('onmouseout', link.getAttribute('onmouseout'))
       thumbColumn.appendChild(thumbLink)
     }
 
