@@ -1,0 +1,8 @@
+/**
+*  RARBG Thumbnails extension.
+*/
+
+/* Hide preview overlay */
+#overlib {
+  display: none !important;
+}

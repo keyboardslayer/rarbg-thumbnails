@@ -22,6 +22,10 @@
       [
         "content.js"
       ],
+      "css":
+      [
+        "content.css"
+      ],
       "run_at": "document_end"
     }
   ],
