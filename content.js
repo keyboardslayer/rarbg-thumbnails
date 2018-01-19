@@ -1,4 +1,7 @@
 'use strict'
+/**
+*  RARBG Thumbnails extension.
+*/
 
 let tables = document.querySelectorAll('table.lista2t')
 
@@ -30,7 +33,7 @@ function addThumbnailColumn (table) {
       }
 
       let thumbImage = new Image()
-      thumbImage.style.maxHeight = '80px'
+      thumbImage.style.maxHeight = '150px'
       thumbImage.style.width = '100%'
       thumbImage.style.minHeight = '25px'
       thumbImage.style.objectFit = 'cover'
