@@ -3,7 +3,7 @@
   "name": "RARBG thumbnails",
   "short_name": "RARBG thumbs",
   "description": "Display thumbnails automaticly on RARBG",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "content_scripts":
   [
     {
