@@ -9,14 +9,20 @@
     {
       "matches":
       [
-        "*://rarbg.to/top*",
-        "*://rarbg.to/torrents.php*",
+        "*://proxyrarbg.org/top*",
+        "*://proxyrarbg.org/torrents.php*",
         "*://rarbg.is/top*",
         "*://rarbg.is/torrents.php*",
-        "*://rarbgproxy.org/top*",
-        "*://rarbgproxy.org/torrents.php*",
+        "*://rarbg.to/top*",
+        "*://rarbg.to/torrents.php*",
+        "*://rarbgaccessed.org/top*",
+        "*://rarbgaccessed.org/torrents.php*",
         "*://rarbgmirror.com/top*",
         "*://rarbgmirror.com/torrents.php*",
+        "*://rarbgproxied.org/top*",
+        "*://rarbgproxied.org/torrents.php*",
+        "*://rarbgproxy.org/top*",
+        "*://rarbgproxy.org/torrents.php*",
         "*://rarbgunblocked.org/top*",
         "*://rarbgunblocked.org/torrents.php*"
       ],
